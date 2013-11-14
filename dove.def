@@ -1,0 +1,7 @@
+NAME            STDPRGM    WINDOWAPI
+
+DESCRIPTION    'StdPrgm Programs'
+PROTMODE
+HEAPSIZE        4096
+STACKSIZE       32768
+EXPORTS         _ClientWndProc
